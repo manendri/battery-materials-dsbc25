@@ -14,7 +14,10 @@ The goal of this project is to use machine learning to reliably predict the band
 2. Battery manufacturers
 3. Experimental chemists and computational researchers in novel materials design and discovery
 #### Modeling Approach
-
+TBD
 ## Data
+TBD
 ## Results
+TBD
 ## Conclusions
+TBD
