@@ -22,7 +22,7 @@ The goal of this project is to use machine learning to reliably predict the **ba
 2. Battery manufacturers
 3. Experimental chemists and computational researchers in novel materials design and discovery
 ## Datasets
-We use the [QMOF database] (https://www.nature.com/articles/s41524-022-00796-6#data-availability) (Rosen et al. (2021)) available at [Materials Project](https://materialsproject.org/mofs). This consists of ~20k theoretical MOF structures and their DFT-derived properties, including the target property **band gap**. Our machine learning models are trained on a subset of ~10k data from this dataset, selected for having the most accurately computed band gaps.
+We use the [QMOF database] (https://www.nature.com/articles/s41524-022-00796-6#data-availability) available at [Materials Project](https://materialsproject.org/mofs). This consists of ~20k theoretical MOF structures and their DFT-derived properties, including the target property **band gap**. Our machine learning models are trained on a subset of ~10k data from this dataset, selected for having the most accurately computed band gaps.
 ## Feature Engineering
 
 #### Modeling Approach
