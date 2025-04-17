@@ -39,7 +39,7 @@ For band gap prediction, we focus on supervised regression models, the following
 We used 80% of the data to train the models, reserving the remaining 20% as a test set for evaluating the best-performing model. Cross-validation mean squared error (MSE) was used to evaluate model performance. Hyperparameter tuning was performed for all models using grid search with cross-validation.
 
 ## Results
-The XGBoost model achieved a MSE of 0.51 for band gap prediction, representing a 55% improvement over the baseline constant mean model. Using SHAP feature importance, we identified several key features for band gap prediction.
+The XGBoost model achieved a MSE of 0.51 for band gap prediction, representing a 55% improvement over the baseline constant mean model. Using SHAP feature importance, we identified several key features for band gap prediction. In terms of throughput, the ML model enables band gap prediction in seconds per MOF, compared to hours or days with traditional DFT calculations, significantly accelerating the screening process.
 ## Conclusions and Future Work
 There is still room for improvement in our models. In future work, we plan to explore:
 * Feature sets that encode structural properties of MOFs, going beyond compositional information.
