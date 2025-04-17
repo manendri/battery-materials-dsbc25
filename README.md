@@ -48,7 +48,7 @@ There is still room for improvement in our models. In future work, we plan to ex
 ### Our team:
 
 * Avinash Karamchandani - [avijka@gmail.com](https://www.linkedin.com/in/avinash-k-055865347/)
-* Dorisa Tabaku - [dorisatabaku@oakland.edu](https://www.linkedin.com/in/dorisa-tabaku92/)
+* Dorisa Tabaku - [dorisa.tabaku@gmail.com](https://www.linkedin.com/in/dorisa-tabaku92/)
 * Qinying Chen - [cqyzxy@udel.edu](https://www.linkedin.com/in/qinying-chen/)
 * Simran Kaur - [simrankj@umich.edu](https://www.linkedin.com/in/simran-kaur22/)
 * Sadisha Nanayakkara - [manendri@gmail.com](https://www.linkedin.com/in/sadisha-nanayakkara/)
