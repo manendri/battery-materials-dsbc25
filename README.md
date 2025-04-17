@@ -35,6 +35,7 @@ For band gap prediction, we focus on supervised regression models, the following
 *	Support Vector Regression
 *	Bayesian Methods
 *	Ensemble Models
+
 We used 80% of the data to train the models, reserving the remaining 20% as a test set for evaluating the best-performing model. Cross-validation mean squared error (MSE) was used to evaluate model performance. Hyperparameter tuning was performed for all models using grid search with cross-validation.
 
 ## Results
